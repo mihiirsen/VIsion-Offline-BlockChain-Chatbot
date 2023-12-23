@@ -29,3 +29,6 @@ Run pip install -r requirements.txt to install required libraries.
 (*OPTIONAL*)Inside Data place your own pdf and delete the already present files inside vectorstore/db_faiss , then run python ingest.py
 
 Execute the main script (e.g., chainlit run model.py -w) to start the chatbot.
+## CURRENT STATUS
+![bot2](https://github.com/jot-s-bindra/VIsion-Offline-BlockChain-Chatbot/assets/112833146/efd0d316-78c8-4081-9e1b-873a76bcbd43)
+![bot4](https://github.com/jot-s-bindra/VIsion-Offline-BlockChain-Chatbot/assets/112833146/bfc1e864-a8fc-4f0e-bc93-3eda46847f95)
